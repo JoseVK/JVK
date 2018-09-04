@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # JVK # JVK
 # JVK # JVK
+# my_first_rails_app
